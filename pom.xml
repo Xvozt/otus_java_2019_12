@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>2019-12-SNAPSHOT</version>
     <modules>
-        <module>L01-maven</module>
+        <module>hw01-maven</module>
     </modules>
 
     <properties>
